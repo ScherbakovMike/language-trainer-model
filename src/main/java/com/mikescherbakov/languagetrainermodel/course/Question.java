@@ -1,4 +1,4 @@
-package course;
+package com.mikescherbakov.languagetrainermodel.course;
 
 import java.util.List;
 import lombok.RequiredArgsConstructor;

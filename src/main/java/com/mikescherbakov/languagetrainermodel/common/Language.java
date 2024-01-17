@@ -1,4 +1,4 @@
-package common;
+package com.mikescherbakov.languagetrainermodel.common;
 
 import lombok.RequiredArgsConstructor;
 

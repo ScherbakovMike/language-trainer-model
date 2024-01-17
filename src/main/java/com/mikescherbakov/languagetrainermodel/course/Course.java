@@ -1,6 +1,6 @@
-package course;
+package com.mikescherbakov.languagetrainermodel.course;
 
-import common.Language;
+import com.mikescherbakov.languagetrainermodel.common.Language;
 import lombok.RequiredArgsConstructor;
 import software.amazon.awssdk.enhanced.dynamodb.mapper.annotations.DynamoDbBean;
 import software.amazon.awssdk.enhanced.dynamodb.mapper.annotations.DynamoDbPartitionKey;

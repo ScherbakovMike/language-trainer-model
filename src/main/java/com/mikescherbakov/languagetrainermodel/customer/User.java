@@ -1,4 +1,4 @@
-package customer;
+package com.mikescherbakov.languagetrainermodel.customer;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
